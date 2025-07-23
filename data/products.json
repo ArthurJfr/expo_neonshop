@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "T-shirt React",
+    "price": 19.99,
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "description": "Un t-shirt confortable pour les fans de React."
+  },
+  {
+    "id": 2,
+    "title": "Sweat à capuche JavaScript",
+    "price": 39.99,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "description": "Restez au chaud tout en codant en JavaScript."
+  },
+  {
+    "id": 3,
+    "title": "Casquette TypeScript",
+    "price": 14.99,
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "description": "Affichez votre amour pour TypeScript avec style."
+  },
+  {
+    "id": 4,
+    "title": "T-shirt TypeScript",
+    "price": 19.99,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "description": "Un t-shirt confortable pour les fans de TypeScript."
+  },
+  {
+    "id": 5,
+    "title": "T-shirt TypeScript",
+    "price": 19.99,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "description": "Un t-shirt confortable pour les fans de TypeScript."
+  },
+  {
+    "id": 6,
+    "title": "T-shirt TypeScript",
+    "price": 19.99,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "description": "Un t-shirt confortable pour les fans de TypeScript."
+  }
+] 
