@@ -58,9 +58,11 @@ ts-reactnative-shop/
 
 ## 🖼️ Aperçu visuel
 
-- ![Aperçu Accueil](./assets/accueil.png)
-- ![Aperçu Détail](./assets/details.png)
-- ![Aperçu Panier](./assets/cart.png)
+<div align="center">
+  <img src="./assets/accueil.png" width="300" alt="Aperçu Accueil"/>
+  <img src="./assets/details.png" width="300" alt="Aperçu Détail"/>
+  <img src="./assets/cart.png" width="300" alt="Aperçu Panier"/>
+</div>
 
 ---
 
@@ -86,12 +88,14 @@ ts-reactnative-shop/
 - TypeScript
 - Expo Vector Icons
 
----
 
-## 🙏 Remerciements
+
+
+
+
+## Réalisation
 
 Projet réalisé pour l’apprentissage de React Native, Expo et la gestion d’état moderne.
 
----
 
-**Auteur :** [Arthur JAFFRO
+**Auteur :** Arthur JAFFRO
